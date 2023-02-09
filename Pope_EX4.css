@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    text-align: top;
+    color: #B93F08;
+  } 
+
+.image-gallery{
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  margin-top: 10% 
+}
+
+.book1{
+    border: solid;
+    border-color: #B93F08;
+    padding: 5px;
+}
+.book2{
+    border: solid;
+    border-color: #B93F08;
+    padding: 5px;
+}
+.book3{
+    border: solid;
+    border-color: #B93F08;
+    padding: 5px;
+}
+
+img{
+    width: 400px;
+    height: 350px;
+}
+figure{
+    text-align: center;
+}
+figcaption{
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-style: italic;
+    font-size: .75em;
+    color: #B93F08;
+}
+h3{
+    text-align: center;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    color:  #B93F08;
+}
+
+html{
+    background-color: #F77018;
+    opacity: 20%;
+}
